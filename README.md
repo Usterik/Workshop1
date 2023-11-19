@@ -33,9 +33,11 @@
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 Установил Anaconda Navigator, с его помощью открыл Jupiter Notebook, где был создан .jpynb файл с командой print('Hello World')
 
+
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
 Установил Unity, а также Microsoft Visual Studio. В Unity был создан скрипнт на С# в котором содержится вывод "Hello World". После этого добавил скрипт на 3д куб и запустил программу, в результате чего в консоль вышла фраза "Hello World"
+![image](https://github.com/Usterik/Workshop1/assets/149312199/3d9023e3-4a43-45e0-bade-832ad9da9af1)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
