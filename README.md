@@ -32,7 +32,7 @@
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 Установил Anaconda Navigator, с его помощью открыл Jupiter Notebook, где был создан .jpynb файл с командой print('Hello World')
-
+![image](https://github.com/Usterik/Workshop1/assets/149312199/24dfd795-27c1-4837-9d0d-73b03b7b1fd6)
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
